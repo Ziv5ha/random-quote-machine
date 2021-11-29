@@ -23,7 +23,6 @@ function App() {
   useEffect(() => {
     if (getQuote) {
       const randomColor = getRandomColor();
-      console.log(randomColor);
       setColor(randomColor);
       document.body.style.backgroundColor = randomColor;
       setQuote(movieQuote.getSomeRandom(1)[0]);
@@ -42,6 +41,23 @@ function App() {
         />
         <NextQuoteBtn setGetQuote={setGetQuote} color={color} />
       </div>
+      <footer style={{ color: color }}>
+        © Created by Ziv Shaul{' '}
+        <a
+          href='https://github.com/Ziv5ha/random-quote-machine'
+          style={{ color: color }}
+          className='footer-link'
+        >
+          <i class='fab fa-github-square'></i>
+        </a>{' '}
+        <a
+          href='https://www.linkedin.com/in/ziv-shaul-079954225/'
+          style={{ color: color }}
+          className='footer-link'
+        >
+          <i class='fab fa-linkedin'></i>
+        </a>
+      </footer>
     </div>
   );
 }
