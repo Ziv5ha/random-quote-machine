@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Ziv5ha/random-quote-machine/static/css/main.f731e93f.chunk.css",
-    "main.js": "/Ziv5ha/random-quote-machine/static/js/main.d16c5554.chunk.js",
-    "main.js.map": "/Ziv5ha/random-quote-machine/static/js/main.d16c5554.chunk.js.map",
-    "runtime-main.js": "/Ziv5ha/random-quote-machine/static/js/runtime-main.b21c91f5.js",
-    "runtime-main.js.map": "/Ziv5ha/random-quote-machine/static/js/runtime-main.b21c91f5.js.map",
-    "static/js/2.9bfef19b.chunk.js": "/Ziv5ha/random-quote-machine/static/js/2.9bfef19b.chunk.js",
-    "static/js/2.9bfef19b.chunk.js.map": "/Ziv5ha/random-quote-machine/static/js/2.9bfef19b.chunk.js.map",
-    "index.html": "/Ziv5ha/random-quote-machine/index.html",
-    "static/css/main.f731e93f.chunk.css.map": "/Ziv5ha/random-quote-machine/static/css/main.f731e93f.chunk.css.map",
-    "static/js/2.9bfef19b.chunk.js.LICENSE.txt": "/Ziv5ha/random-quote-machine/static/js/2.9bfef19b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Ziv5ha/random-quote-machine/static/media/Ubuntu-Regular.fbdecfce.ttf"
+    "main.css": "/random-quote-machine/static/css/main.f61d59d3.chunk.css",
+    "main.js": "/random-quote-machine/static/js/main.d16c5554.chunk.js",
+    "main.js.map": "/random-quote-machine/static/js/main.d16c5554.chunk.js.map",
+    "runtime-main.js": "/random-quote-machine/static/js/runtime-main.13c90a67.js",
+    "runtime-main.js.map": "/random-quote-machine/static/js/runtime-main.13c90a67.js.map",
+    "static/js/2.9bfef19b.chunk.js": "/random-quote-machine/static/js/2.9bfef19b.chunk.js",
+    "static/js/2.9bfef19b.chunk.js.map": "/random-quote-machine/static/js/2.9bfef19b.chunk.js.map",
+    "index.html": "/random-quote-machine/index.html",
+    "static/css/main.f61d59d3.chunk.css.map": "/random-quote-machine/static/css/main.f61d59d3.chunk.css.map",
+    "static/js/2.9bfef19b.chunk.js.LICENSE.txt": "/random-quote-machine/static/js/2.9bfef19b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/random-quote-machine/static/media/Ubuntu-Regular.fbdecfce.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b21c91f5.js",
+    "static/js/runtime-main.13c90a67.js",
     "static/js/2.9bfef19b.chunk.js",
-    "static/css/main.f731e93f.chunk.css",
+    "static/css/main.f61d59d3.chunk.css",
     "static/js/main.d16c5554.chunk.js"
   ]
 }
